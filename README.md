@@ -1,4 +1,4 @@
-# Blog Card - Landing Page
+# Blog Card - Component
 
 Este é um projeto proposto pelo Frontend Mentor, construído exclusivamente com HTML e CSS, destacando-se pela ênfase na responsividade. O desafio proposto pelo Frontend Mentor visa aprimorar habilidades de design e desenvolvimento frontend.
 
